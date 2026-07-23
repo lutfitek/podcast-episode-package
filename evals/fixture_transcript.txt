@@ -1,0 +1,39 @@
+Founders After Dark — "Scaling Without Burning Out" — guest Maria Chen, VP Ops at a mid-size logistics startup
+
+Chapters:
+0:00 Introduction
+1:15 Why ops debt is invisible until it isn't
+3:40 The hire that should have happened a year earlier
+6:05 Delegation vs. control — the founder's actual fear
+8:30 Runway math nobody wants to do out loud
+9:50 Closing thoughts
+
+Transcript:
+
+0:05 Host: Welcome back to Founders After Dark. Today I'm talking to Maria Chen about the unglamorous side of scaling — ops debt, burnout, and the hire everyone puts off too long.
+
+1:20 Maria: The thing about ops debt is it doesn't show up on any dashboard. Your revenue chart looks great, your headcount chart looks fine, and meanwhile three people are quietly doing the work of eight because nobody wrote down the process when it still fit in one person's head.
+
+1:52 Maria: By the time it's visible — a shipment error, a missed SLA, someone quitting — you're not fixing a small problem anymore, you're doing triage on something that's been silently compounding for a year.
+
+2:30 Host: So it's less "we don't have data" and more "the data doesn't capture what's actually breaking."
+
+2:41 Maria: Exactly. The metrics that make a board deck look healthy are almost never the metrics that predict where the org is about to snap.
+
+3:45 Maria: The hire I regret not making earlier was an ops generalist — not a specialist, not someone with a fancy title. Just someone whose entire job was noticing where things were duct-taped together. I kept telling myself we'd grow into needing that role. We were already past needing it by a year.
+
+4:30 Maria: And the cost of waiting compounds too. The generalist you hire at 40 people is doing triage. The one you hire at 15 people is doing architecture. Same title, completely different job, and only one of those is actually cheaper.
+
+6:10 Host: You mentioned founders resist delegating even when they know intellectually they should. What's actually going on there?
+
+6:22 Maria: It's rarely about trust in the abstract. It's that delegating means admitting the thing you built by hand, at 2am, out of sheer will, now has to survive being done by someone else, imperfectly, in a way you can't fully see. That's a real loss, even when it's the right call.
+
+7:05 Maria: The founders who get through it treat the first few delegated failures as data, not as proof they should take it back. The ones who don't get through it take the first mistake as confirmation and re-centralize everything, which is worse than never delegating at all because now the team's learned not to try.
+
+8:35 Maria: Nobody wants to run the actual runway math when hiring feels urgent. But if a hire doesn't change your unit economics trajectory within two quarters, you're not buying growth, you're buying comfort. Both are sometimes fine to buy! Just know which one you're doing.
+
+9:00 Maria: I'd rather a founder tell me "we're hiring this person because I'm drowning and need relief" than dress it up as a strategic org design decision. The honest version at least lets you plan for when the relief hire either grows into the role or doesn't.
+
+9:55 Host: Maria, thank you — this was a great one. Where can people find you?
+
+10:05 Maria: On the podcast's website, and I write occasionally about ops on my own newsletter. Thanks for having me.
